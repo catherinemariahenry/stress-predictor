@@ -34,7 +34,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("""
-<h1 style='text-align:center;'>🧠 Stress Predictor</h1>
+<h1 style='text-align:center;'>🎈 Stress Predictor</h1>
 <p style='text-align:center; color:gray;'>AI-powered lifestyle stress analysis</p>
 """, unsafe_allow_html=True)
 
